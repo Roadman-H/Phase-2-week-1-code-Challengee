@@ -1,7 +1,7 @@
 // App.js
 import React, { useState } from 'react';
-import TransactionTable from './transactionTable';
-import TransactionForm from './transactionForm';
+import TransactionTable from './TransactionTable';
+import TransactionForm from './TransactionForm';
 import './App.css';
 
 const App = () => {
