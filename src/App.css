@@ -1,4 +1,5 @@
 .App {
+<<<<<<< HEAD
   text-align: center;
 }
 
@@ -36,3 +37,38 @@
     transform: rotate(360deg);
   }
 }
+=======
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+input[type="text"],
+input[type="number"],
+button {
+  margin: 5px;
+  padding: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #f2f2f2;
+}
+>>>>>>> origin/delete
